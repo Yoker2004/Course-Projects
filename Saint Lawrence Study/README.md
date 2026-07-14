@@ -12,5 +12,8 @@
 - statsmodels
 
 ### How to run
-git clone https://github.com/Yoker2004/Course-Projects
-cd Course-Projects
+- git clone https://github.com/Yoker2004/Course-Projects
+- Download the following Glider Data Files and add them to the data folder from the repository under a subfolder named "Glider data":\
+   <img width="627" height="260" alt="{37D54E3A-D733-47BF-AB1A-83D2608E6CA7}" src="https://github.com/user-attachments/assets/204c3839-596c-47f3-8142-f5d990db3168" />
+
+- cd Course-Projects
